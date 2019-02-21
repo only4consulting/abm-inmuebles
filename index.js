@@ -174,6 +174,7 @@ leerInmuebles();
 
 //Agregar inmueble
 //agregarInmueble(apta_credito, banos, cochera, comedor, comedor_diario, descripcion, direccion, dormitorios, living, operacion, moneda, precio, tipo)
+/*
 agregarInmueble(false, 0, 0, false, false, "Terreno 10x63", "Caracas 281", 2, true, "venta", "Dólares", 128000, 'terreno');
 agregarInmueble(false, 0, 0, false, false, "Lote 10x20 barrio Güemes", "25 este 989", 3, true, "venta", "Dólares", 75000, 'terreno');
 agregarInmueble(false, 0, 0, false, false, "Lote B° Parque Samiento", 2, true, "venta", "Dólares", 14000, 'terreno');
@@ -198,3 +199,4 @@ agregarInmueble(true, 2, 1, true, true, "Casa en alquiler fines de marzo", "Cara
 agregarInmueble(false, 1, 0, false, true, "Alquilo casa barrio Oest", "25 este 989", 3, true, "alquiler", "Pesos", 13000, 'casa');
 agregarInmueble(true, 2, 1, true, true, "Alquilo casa 2 dormitorios y cochera", "Boer 489", 2, true, "alquiler", "Pesos", 14000, 'casa');
 agregarInmueble(true, 1, 0, true, true, "Casa con patio y quincho", "25 este 989", 1, true, "alquiler", "Pesos", 11000, 'casa');
+*/
